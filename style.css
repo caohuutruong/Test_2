@@ -1,0 +1,7 @@
+table {
+    border-collapse: collapse; /* Gộp viền */
+    border: 2px solid black;
+  }
+  td, th {
+    border: 1px solid black;
+  }

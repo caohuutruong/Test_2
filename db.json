@@ -1,0 +1,44 @@
+{
+  "danhsachNV": [
+    {
+      "id": "33",
+      "no": "3",
+      "name": "van cao",
+      "age": 23,
+      "sex": "male",
+      "address": "ha nam",
+      "company_in": "2025-04-01",
+      "company_out": ""
+    },
+    {
+      "id": "9",
+      "no": "45",
+      "name": "huu truong",
+      "age": 25,
+      "sex": "male",
+      "address": "ha nam ninh",
+      "company_in": "2025-04-01",
+      "company_out": ""
+    },
+    {
+      "id": "95c3",
+      "no": "12",
+      "name": "cao truong",
+      "age": 23,
+      "sex": "male",
+      "address": "ha nam ninh",
+      "company_in": "2025-04-01",
+      "company_out": "2025-04-30"
+    },
+    {
+      "id": "f89e",
+      "no": "1",
+      "name": "thu thuy",
+      "age": 23,
+      "sex": "male",
+      "address": "ha nam ninh",
+      "company_in": "2025-04-01",
+      "company_out": "2025-04-28"
+    }
+  ]
+}
