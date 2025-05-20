@@ -1,3 +1,6 @@
 test_nhanh
 git
 had enythings changed??
+
+----------
+cap nhat tinh nang
